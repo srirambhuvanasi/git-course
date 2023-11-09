@@ -1,2 +1,3 @@
 Get the user Data.
 process data
+create a avtar for user 
